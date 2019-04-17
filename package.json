@@ -1,0 +1,17 @@
+{
+  "name": "basic-server",
+  "version": "1.0.0",
+  "description": "A basic nodeJS server",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index"
+  },
+  "keywords": [
+    "server"
+  ],
+  "author": "Rahul Gurung",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^1.18.11"
+  }
+}
